@@ -5,9 +5,9 @@
 // • lo pushee a un nuevo array
 // • devuelva el array final con el resultado de cada una de las llamadas al callback.
 
-// const prueba=[1,2,4,5]
-// const hola=prueba.map((numero)=>numero*2);
-// console.table(hola)
+const prueba=[1,2,4,5]
+const hola=prueba.map((numero)=>numero*2);
+console.table(hola)
 
 // const array=[1,2,4,5];
 // let w= array.map(function(callback){
