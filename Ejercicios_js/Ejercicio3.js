@@ -7,11 +7,10 @@
 
 // const prueba=[1,2,4,5]
 // const hola=prueba.map((numero)=>numero*2);
-// console.table(hpta)
+// console.table(hola)
 
 // const array=[1,2,4,5];
 // let w= array.map(function(callback){
 //     return callback*2
 // })
-// console.log(array)
 // console.table(w)
