@@ -4,5 +4,5 @@ const promesa_contenedora = new Promise(function (reject, resolve) {
   setTimeout(() => {
     reject("Felicidades, promesa1 resuelta");
   });
-  .then(function(resultado)=>)
+  then(function(resultado)=>)
 });
