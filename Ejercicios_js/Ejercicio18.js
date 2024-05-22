@@ -16,5 +16,4 @@ function llamado_filtrar() {
       });
   }, 3000);
 }
-
 llamado_filtrar();
