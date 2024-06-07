@@ -4,6 +4,6 @@
 // • devuelva true si todas las llamadas al callback devolvieron true
 const array=[22,25,30,50];
 const prueba = array.every((valor) => {
-  return valor >=20;
+  return valor <=20;
 })
 console.log(prueba)

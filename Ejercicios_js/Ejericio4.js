@@ -60,4 +60,8 @@ const prueba=[1,2,3,4,5,6,7,8,9,10];
 const filtrar_num=prueba.filter(function(numero){
     return numero %2===0;
 })
+const filtrar_num2=prueba.filter(function(numero){
+    return numero%2 !==0;
+})
 console.log(filtrar_num)
+console.log(filtrar_num2)
